@@ -69,3 +69,15 @@ i {
     color: black;
     padding: 3px;
 }
+
+.form-footer1 {
+    display: flex;
+}
+
+.title2{
+    margin-bottom: 1em;
+}
+
+.partager {
+    margin-top: 1em;
+}
