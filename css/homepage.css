@@ -1,5 +1,4 @@
-/* header {
-    background: url("../img/header.jpg");
-    size: cover;
-    filter: brightness(50%);
-} */
+.container1 {
+    margin-bottom: 2em;
+    margin-left: 4em;
+}

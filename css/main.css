@@ -7,11 +7,10 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 .Courgette {
-    font-family: 'Courgette', sans-serif;
+    font-family: 'Courgette', cursive;
 }
-
-nav {
-    border-bottom: grey;
+.Oswald {
+    font-family: 'Oswald', sans-serif;
 }
 
 .backgroung-header {
