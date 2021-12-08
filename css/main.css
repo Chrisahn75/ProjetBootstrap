@@ -5,14 +5,20 @@
 
 body {
     font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 .Courgette {
-    font-family: 'Courgette', cursive;
+    font-family: 'Courgette', sans-serif;
 }
 .Oswald {
     font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
 }
 
+.title1{
+    font-size: 30px;
+}
 .backgroung-header {
     position: absolute;
     top: 0;
@@ -24,4 +30,9 @@ body {
     position: relative;
     margin-bottom: 7em;
     margin-top: 5em;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
 }
