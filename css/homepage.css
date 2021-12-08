@@ -1,4 +1,7 @@
 header {
-    background: url("../img/header.jpg") ;
+    background: url("../img/header.jpg");
     size: cover;
+    filter: brightness(50%);
+    
+    
 }
