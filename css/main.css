@@ -36,3 +36,36 @@ footer {
     background-color: black;
     width: 100%;
 }
+
+.icon {
+    margin-right: 4%
+}
+.icon-title {
+    margin-top: 2%;
+}
+.padding-form {
+    padding-right: 15%;
+}
+.container2 {
+    width: 30%;
+}
+
+section {
+    margin-top: 3em;
+}
+
+aside {
+    width: 20%;
+    position: absolute;
+    right: 30px;
+    margin-top: 12%
+}
+
+.icon-group1 {
+    font-size: 20px;
+}
+i {
+    background-color: white;
+    color: black;
+    padding: 3px;
+}
