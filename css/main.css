@@ -1,3 +1,16 @@
 @font-face {
     font-family: 'Oswald', sans-serif;
+    font-family: 'Courgette', cursive;
 }
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+.Courgette {
+    font-family: 'Courgette', sans-serif;
+}
+
+nav {
+    border-bottom: grey;
+}
+
