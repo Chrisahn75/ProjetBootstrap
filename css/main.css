@@ -14,3 +14,15 @@ nav {
     border-bottom: grey;
 }
 
+.backgroung-header {
+    position: absolute;
+    top: 0;
+    filter: brightness(20%);
+    size: cover;
+}
+
+.position {
+    position: relative;
+    margin-bottom: 7em;
+    margin-top: 5em;
+}
