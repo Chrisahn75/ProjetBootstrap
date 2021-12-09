@@ -1,15 +1,8 @@
 .contacttitle {
-    margin-top: 11em;
-    margin-left: 10em;
+    margin-top: 2em
 }
-
-.container2 {
-    margin-left: 13em;
-}
-
 .map-responsive {
     overflow:hidden;
-    padding-bottom:56.25%;
     position:relative;
     height:0;
 }
@@ -20,8 +13,4 @@
     height:100%;
     width:100%;
     position:absolute;
-}
-
-body {
-    width: 100%;
 }
