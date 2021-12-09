@@ -1,0 +1,28 @@
+.margin-content {
+    margin-left: 5rem;
+}
+aside {
+    margin-top: 6rem;
+}
+main {
+    margin-top: 12rem;
+    margin-bottom: 3rem;
+}
+.text-fixed {
+    position: relative;
+}
+footer {
+    padding-bottom: 6rem;
+}
+.padding-form {
+    padding-right: 10%;
+    min-width: 4rem;
+    ;
+}
+/* Espace triche */
+@media screen and (max-width: 767px) {
+    .main-content {
+        display: flex;
+    }
+}
+/* Fin de l'espace triche */
